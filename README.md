@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hsawalka
+- 👀 I’m interested in Logic and automation
+- 🌱 I’m currently learning Python and Data Science
+- 💞️ I’m looking to collaborate on projects as a back-end engineer
+- 📫 How to reach me, Email: hamza.sawalka@gmail.com
